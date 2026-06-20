@@ -12,4 +12,4 @@ jobs:
         uses: laraqui/gigdActionPerso@main
         with:
           nom: "gigd"
-          langue: "es"
+          langue: "en"
